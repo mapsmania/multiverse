@@ -11,15 +11,15 @@
     
     const haikuRules = {
       "start": "$5line.ucf() % $7line % $5line2",
-      "5line": "$season [light | breeze | sun | rain | winds] | [morning | evening | twilight | afternoon] glows",
-      "7line": "[sleeps | wakes | lingers | whispers | breathes] softly in $town | " +
+      "5line": "$season [light | breeze | sun | rain | winds] | flickering light | blazing sun | soft rain | howling wind | [morning | evening | twilight | afternoon] glows",
+      "7line": "[sleeps deeply | wakes slowly | lingers quietly | whispers softly | breathes gently] in $town | " +
               "[walking | drifting | wandering | roaming | gliding] through $town's [quiet streets | old lanes | shadowed alleys | cobblestone paths] | " +
               "[the sun sets over | moonlight bathes] $town's [garden | rooftops | riverbank | square]",
       "5line2": "$weather | $vp4",
       "town": "this place",
-      "season": "autumn | winter | spring | summer",
-      "tree": "[chestnut | cedar | old [gum | tea]] tree",
-      "nnn": "a black rose | white daisies | sakura | rosemary | a yellow cat",
+      "season": "autumn | winter | spring | summer | fall",
+      "tree": "[chestnut | cedar | old [gum | tea]] tree | weeping willow | ancient oak | cherry blossom |",
+      "nnn": "a black rose | white daisies | sakura | rosemary | a yellow cat | crimson poppies | silent lilies | a watchful owl | a wily fox | a distant bell",
       "weather": "[cool | warm | hot | cold] [rain | breeze] | [soft | bright] sunlight",
       "vp4": "singing like birds | drifting like snow | falling like [rain | leaves] | glowing in the twilight | fading with the dusk | blooming in silence",
       "vp5": "crying like a child | singing like a bird | drifting like the snow | whispering to the wind | echoing through the hills | resting under stars"
