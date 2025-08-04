@@ -21,7 +21,7 @@
       "tree": "[chestnut | cedar | old [gum | tea]] tree | weeping willow | ancient oak | cherry blossom |",
       "nnn": "a black rose | white daisies | sakura | rosemary | a yellow cat | crimson poppies | silent lilies | a watchful owl | a wily fox | a distant bell",
       "weather": "[cool | warm | hot | cold] [rain | breeze] | [soft | bright] sunlight",
-      "vp4": "singing like birds | drifting like snow | falling like [rain | leaves] | glowing in the twilight | fading with the dusk | blooming in silence",
+      "vp4": "singing like birds | drifting like snow | falling like [rain | leaves | tears | stars] | glowing in the twilight | fading with the dusk | blooming in silence | whispering like the wind | shimmering like [water | silk] | soaring like [eagles | dreams] | weeping like [willows | clouds] | murmuring like [streams | secrets] | dancing like [flames | shadows] | sparkling like [frost | diamonds] | breathing like [sleep | mist] | stretching like [time | light] | rippling like [fabric | a pond]",
       "vp5": "crying like a child | whispering to the wind | echoing through the hills | resting under stars | as silent as a frozen lake"
     };
 
